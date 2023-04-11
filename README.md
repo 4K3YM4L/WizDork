@@ -1,4 +1,6 @@
 # WizDork
+![image](https://user-images.githubusercontent.com/127394223/231069425-3b5619a4-ce93-4251-b5c8-7e28750afe32.png)
+
 WizDork is a Python script that automates Google dorking by allowing you to quickly filter and search for specific pages using various search operators.
 
 With WizDork, you can easily search for pages that contain specific keywords, are part of a specific website or domain, have a specific file type, link to a specific URL, and much more. The script also allows you to display Google's cached version of a specific URL, view information about a specific search term, and even get the definition of a word or phrase.
