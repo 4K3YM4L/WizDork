@@ -26,15 +26,20 @@ You can use the following text to describe the usage of the Math and Logical ope
 
 **Math Operators:**
 ```
-"not equal to": "!="
-"greater than or equal to": ">="
-"less than or equal to": "<="
+"greater than": ">",
+"less than": "<",
+"equal to": "=",
+"not equal to": "!=",
+"greater than or equal to": ">=",
+"less than or equal to": "<=",
 ```
 **Logical Operators:**
 ```
-"not": "NOT"
-"xor": "XOR"
-"nand": "NAND"
-"nor": "NOR"
+"and": "AND",
+"or": "OR",
+"not": "NOT",
+"xor": "XOR",
+"nand": "NAND",
+"nor": "NOR",
 ```
 These operators can be used in combination with filters to create complex search queries. For example, you can use the ">=" operator to search for results greater than or equal to a certain value, or you can use the "NOT" operator to exclude certain results from your search. The "XOR", "NAND", and "NOR" operators can be used for more advanced logical operations.
